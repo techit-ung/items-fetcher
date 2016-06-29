@@ -1,0 +1,3 @@
+class ItemsFetcher::Interpreter
+	
+end

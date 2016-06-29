@@ -1,0 +1,7 @@
+url: "https://bangkok.craigslist.co.th/search/apa"
+data:
+	list:
+		selector: ".content .rows"
+		item:
+			selector: ".row"
+			content_selector: "#titletextonly" 
